@@ -3,7 +3,9 @@
 
 TechStack : HTML, CSS , JS
 
-<img width="903" alt="image" src="https://github.com/bubbleGame/assets/46224719/e5b783ab-38f8-4dc9-a5e0-8069dc57743c"> 
+<img width="903" alt="image" src="https://github.com/user-attachments/assets/ae1e5a5d-81be-4c86-9a77-bb07a01990c7"> 
 <br/>  <br/>
 
-<img width="862" alt="image" src="https://github.com/bubbleGame/assets/46224719/d8a86422-2fb5-4e9a-adc9-18d1682a5200">
+<img width="862" alt="image" src="https://github.com/user-attachments/assets/e2c70c1d-913d-4bde-aaf8-390ed94d9465">
+<!-- ![Screenshot (71)](https://github.com/user-attachments/assets/e2c70c1d-913d-4bde-aaf8-390ed94d9465) -->
+<!-- ![Screenshot (72)](https://github.com/user-attachments/assets/ae1e5a5d-81be-4c86-9a77-bb07a01990c7) -->
